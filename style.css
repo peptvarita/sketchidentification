@@ -1,0 +1,16 @@
+canvas{
+    animation-name: tvariiita; animation-duration: 4s; animation-iteration-count: infinite;
+}
+@keyframes tvariiita{
+    from{ box-shadow: 1px 1px 40px pink;}
+    to{ box-shadow: 1px 1px 40px rgb(240, 119, 119);}
+}
+body{
+    background-color: rgb(0, 0, 0) ;
+}
+h1{
+    color:rgb(240, 119, 119)
+}
+#show{
+    float : right
+}
